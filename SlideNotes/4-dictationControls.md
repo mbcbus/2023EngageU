@@ -5,6 +5,7 @@ Demo of a proof of concept file requiring hands free FileMaker usage
 - Activate and Deactivate the microphone
 - Voice commands
 - Speech-to-text dictation
+- Text expansion
 - Audible feedback
 
 ## Special Considerations
