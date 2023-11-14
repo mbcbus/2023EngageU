@@ -26,9 +26,11 @@ Figma is a world-class, industry standard design platform. Using Figma allows no
 [Figma](https://www.figma.com/)
 
 ### Honorable Mentions
+- [Github Codebases](https://github.com/)
 - [FileZilla FTP Client](https://filezilla-project.org/)
 - [ThunderClient API Testing Direct in VSCode](https://www.thunderclient.com/)
 - [iTerm MacOS Terminal Wrapper](https://iterm2.com/)
 - [Pixelmator Pro Image Editor](https://www.pixelmator.com/pro/)
 - [Pencil Open Source Mockups](https://pencil.evolus.vn/)
 - [DropShip FileMaker Clips](https://dropship.fm/)
+- [Wappalyzer Brower Extension](https://www.wappalyzer.com/)
