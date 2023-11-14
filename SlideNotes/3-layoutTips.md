@@ -9,5 +9,5 @@
 - Layout alignment tools
   - Grid square sizing
   - Custom snap lines
-  - Custom window frames
+  - Custom window frames / screen guides
 - Merge tag compacting
